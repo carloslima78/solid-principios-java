@@ -40,7 +40,6 @@ public class ContaInvestimento extends Conta {
                     mensagem = "Saldo insuficiente.";
                 }
             }
-
         }
 
         return mensagem;
