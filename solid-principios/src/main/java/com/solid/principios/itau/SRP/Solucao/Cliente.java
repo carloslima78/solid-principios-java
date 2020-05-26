@@ -38,13 +38,4 @@ public class Cliente {
     public void Email(String email){
         this._email = email;
     }
-
-    public void InserirCliente(Cliente cliente){
-
-        RepositorioCliente repositorio = new RepositorioCliente();
-
-        if (repositorio.Inserir(cliente) == 1){
-            ServicoEmail.EnviarEmail("Saudações", "Saudações ao novo cliente", "ben@contoso", cliente.Email());
-        }
-    }
 }
