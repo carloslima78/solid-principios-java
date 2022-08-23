@@ -9,6 +9,6 @@ Exemplos dos princípios de SOLID escritos com a linguagem Java
 
 ### Os Princípios
 
-| Single Responsability | Open Closed | Liscov | Interface Segregation | Dependency Inversion | Teste
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| Responsabilidade única | Sem alterações e somente extenções | Herdeiro fiel | Interfaces segregadas | Dependência de abstrações | Teste |
+| Single Responsability | Open Closed | Liscov | Interface Segregation | Dependency Inversion | 
+| -------- | -------- | -------- | -------- | -------- |
+| Responsabilidade única | Sem alterações e somente extenções | Herdeiro fiel | Interfaces segregadas | Dependência de abstrações | 
