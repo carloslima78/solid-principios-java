@@ -1,5 +1,11 @@
 # Princípios de SOLID - Java
+
 Exemplos dos princípios de SOLID escritos em Java
+
+### Conhecimentos necessários
+
+- `Programação Java`
+- `Conceitos de Orientação a Objetos`
 
 | Single Responsability | Open Closed | Liscov | Interface Segregation | Dependency Inversion |
 | -------- | -------- | -------- | -------- | -------- |
