@@ -1,6 +1,6 @@
 # Princípios de SOLID - Java
 
-Exemplos dos princípios de SOLID escritos em Java
+Exemplos dos princípios de SOLID escritos com a linguagem Java
 
 ### Conhecimentos necessários
 
